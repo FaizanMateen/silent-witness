@@ -1,8 +1,3 @@
-# React + Vite
+# Silent Witness
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The web application provides a safe and anonymous platform for individuals to report any illegal drug trafficking activities they may be aware of, without the fear of revealing their identity. It offers an easy-to-use interface where users can share information about suspicious activities, locations, or people involved, all while ensuring their personal details remain private. The goal is to encourage the public to contribute to the fight against drug trafficking by making it simple and secure for them to report vital information. Whether it's a tip-off about unusual behavior or information about trafficking networks, this application empowers users to take action in a way that keeps them safe.
